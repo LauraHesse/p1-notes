@@ -2,8 +2,8 @@
 
 Be independent. Do your own research. Stay up to date!
 
-   Coding is always difficult but stay there and keep going.
-   **It's important to keep going!**
+⋅⋅⋅Coding is always difficult but stay there and keep going.
+⋅⋅⋅**It's important to keep going!**
 
 Few problem solving strategies:
 
