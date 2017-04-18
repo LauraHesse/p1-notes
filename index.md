@@ -28,77 +28,79 @@ Few problem solving strategies:
 
 ### Cut, Copy, Paste
 
-⋅⋅* Cut: ⌘ + X  
-⋅⋅* Copy: ⌘ + C  
-⋅⋅* Paste: ⌘ + V  
+   Cut: ⌘ + X
+
+   Copy: ⌘ + C  
+
+   Paste: ⌘ + V  
 
 ***
 
 ### Undo, Redo
 
-⋅⋅* Undo: ⌘ + Z  
-⋅⋅* Redo: ⌘ + ⇧ + Z or ⌘ + Y  
+   Undo: ⌘ + Z  
+   Redo: ⌘ + ⇧ + Z or ⌘ + Y  
 
 ***
 
 ### Duplicate
 
-⋅⋅* ⌘ + ⇧ + D with or without text highlighted  
+   ⌘ + ⇧ + D with or without text highlighted  
 
 ***
 
 ### Select
 
-⋅⋅* Select Word: ⌘ + D  
-⋅⋅* Select Line: ⌘ + L  
-⋅⋅* Select All: ⌘ + A  
-⋅⋅* Select Every Instance: ⌘ + Ctrl + G  
+   Select Word: ⌘ + D  
+   Select Line: ⌘ + L  
+   Select All: ⌘ + A  
+   Select Every Instance: ⌘ + Ctrl + G  
 
 ***
 
 ### Move Cursor
 
-⋅⋅* Move Cursor to Previous Word: Alt + ←  
-⋅⋅* Move Cursor to Next Word: Alt + →  
-⋅⋅* Move Cursor to Start of Line: ⌘ + ←  
-⋅⋅* Move Cursor to End of Line: ⌘ + →  
-⋅⋅* Move Cursor to Start of Document: ⌘ + ↑  
-⋅⋅* Move Cursor to End of Document: ⌘ + ↓  
+   Move Cursor to Previous Word: Alt + ←  
+   Move Cursor to Next Word: Alt + →  
+   Move Cursor to Start of Line: ⌘ + ←  
+   Move Cursor to End of Line: ⌘ + →  
+   Move Cursor to Start of Document: ⌘ + ↑  
+   Move Cursor to End of Document: ⌘ + ↓  
 
 ***
 
 ### Jump
 
-⋅⋅* Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M  
-⋅⋅* Jump to Definition: ⌘ + R  
+   Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M  
+   Jump to Definition: ⌘ + R  
 
 ***
 
 ### Indent, Unindent
 
-⋅⋅* Indent: Tab or ⌘ + ]  
-⋅⋅* Unindent: ⇧ + Tab or ⌘ + [  
+   Indent: Tab or ⌘ + ]  
+   Unindent: ⇧ + Tab or ⌘ + [  
 
 ***
 
 ### Toggle Comment
 
-⋅⋅* ⌘ + /  
+   ⌘ + /  
 
 ***
 
 ### Tab Management
 
-⋅⋅* New Tab: ⌘ + N  
-⋅⋅* Switch Tab Left: ⌘ + ⇧ + [  
-⋅⋅* Switch Tab Right: ⌘ + ⇧ + ]  
-⋅⋅* Close Tab: ⌘ + W  
-⋅⋅* Reopen Tab: ⌘ + ⇧ + T  
+   New Tab: ⌘ + N  
+   Switch Tab Left: ⌘ + ⇧ + [  
+   Switch Tab Right: ⌘ + ⇧ + ]  
+   Close Tab: ⌘ + W  
+   Reopen Tab: ⌘ + ⇧ + T  
 
 ***
 
 ### Quick Open
 
-⋅⋅* ⌘ + P  
+   ⌘ + P  
 
 For an entire list of [Atom’s](https://github.com/nwinkler/atom-keyboard-shortcuts) keyboard shortcuts
