@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+## Establishing a Web Developer Mindset
 
-You can use the [editor on GitHub](https://github.com/LauraHesse/p1-notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Be independent. Do your own research. Stay up to date!
+Coding is always difficult but stay there and keep going.
+It's important to keep going!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Few problem solving strategies:
 
-### Markdown
+- Sleeping (sleep over)
+- Check issues in Google
+- Ask community
+- Rethink what you are doing. Draw your project.
+
+Being wrong means that you aren't right **yet**.
+
+[How To Navigate the Up and Downs Of Learning To Code](http://bit.ly/2pNic11)
+
+[My First Month Coding: An Emotional Roller Coaster](http://bit.ly/2pNDYlc)
+
+[Why Learning to Code is So Damn Hard](http://bit.ly/1XmpBRF)
+
+Do [The Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+Learning [How to Learn on Coursera](https://www.coursera.org/learn/learning-how-to-learn)
+
+## Writing Code Faster
+
+### Commands
+
+### Cut, Copy, Paste
+
+Cut: ⌘ + X
+Copy: ⌘ + C
+Paste: ⌘ + V
+
+***
+
+### Undo, Redo
+
+Undo: ⌘ + Z
+Redo: ⌘ + ⇧ + Z or ⌘ + Y
+
+### Duplicate
+
+⌘ + ⇧ + D with or without text highlighted
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Select
 
-# Header 1
-## Header 2
-### Header 3
+Select Word: ⌘ + D
+Select Line: ⌘ + L
+Select All: ⌘ + A
+Select Every Instance: ⌘ + Ctrl + G
 
-- Bulleted
-- List
+### Move Cursor
 
-1. Numbered
-2. List
+Move Cursor to Previous Word: Alt + ←
+Move Cursor to Next Word: Alt + →
+Move Cursor to Start of Line: ⌘ + ←
+Move Cursor to End of Line: ⌘ + →
+Move Cursor to Start of Document: ⌘ + ↑
+Move Cursor to End of Document: ⌘ + ↓
 
-**Bold** and _Italic_ and `Code` text
+### Jump
 
-[Link](url) and ![Image](src)
-```
+Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M
+Jump to Definition: ⌘ + R
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Indent, Unindent
 
-### Jekyll Themes
+Indent: Tab or ⌘ + ]
+Unindent: ⇧ + Tab or ⌘ + [
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LauraHesse/p1-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Toggle Comment
 
-### Support or Contact
+⌘ + /
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Tab Management
+
+New Tab: ⌘ + N
+Switch Tab Left: ⌘ + ⇧ + [
+Switch Tab Right: ⌘ + ⇧ + ]
+Close Tab: ⌘ + W
+Reopen Tab: ⌘ + ⇧ + T
+
+### Quick Open
+
+⌘ + P
+
+For an entire list of [Atom’s](https://github.com/nwinkler/atom-keyboard-shortcuts) keyboard shortcuts
