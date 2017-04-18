@@ -29,9 +29,7 @@ Few problem solving strategies:
 ### Cut, Copy, Paste
 
    Cut: ⌘ + X
-
    Copy: ⌘ + C  
-
    Paste: ⌘ + V  
 
 ***
