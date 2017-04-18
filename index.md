@@ -1,8 +1,9 @@
 ## Establishing a Web Developer Mindset
 
 Be independent. Do your own research. Stay up to date!
+
 Coding is always difficult but stay there and keep going.
-It's important to keep going!
+**It's important to keep going!**
 
 Few problem solving strategies:
 
@@ -11,21 +12,19 @@ Few problem solving strategies:
 - Ask community
 - Rethink what you are doing. Draw your project.
 
-Being wrong means that you aren't right **yet**.
+**Being wrong means that you aren't right.**
 
-[How To Navigate the Up and Downs Of Learning To Code](http://bit.ly/2pNic11)
+- [How To Navigate the Up and Downs Of Learning To Code](http://bit.ly/2pNic11)
 
-[My First Month Coding: An Emotional Roller Coaster](http://bit.ly/2pNDYlc)
+- [My First Month Coding: An Emotional Roller Coaster](http://bit.ly/2pNDYlc)
 
-[Why Learning to Code is So Damn Hard](http://bit.ly/1XmpBRF)
+- [Why Learning to Code is So Damn Hard](http://bit.ly/1XmpBRF)
 
-Do [The Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+- [Do The Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
-Learning [How to Learn on Coursera](https://www.coursera.org/learn/learning-how-to-learn)
+- [Learning How to Learn on Coursera](https://www.coursera.org/learn/learning-how-to-learn)
 
-## Writing Code Faster
-
-### Commands
+## Writing Code Faster - Commands
 
 ### Cut, Copy, Paste
 
@@ -40,11 +39,13 @@ Paste: ⌘ + V
 Undo: ⌘ + Z
 Redo: ⌘ + ⇧ + Z or ⌘ + Y
 
+***
+
 ### Duplicate
 
 ⌘ + ⇧ + D with or without text highlighted
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
 ### Select
 
@@ -52,6 +53,8 @@ Select Word: ⌘ + D
 Select Line: ⌘ + L
 Select All: ⌘ + A
 Select Every Instance: ⌘ + Ctrl + G
+
+***
 
 ### Move Cursor
 
@@ -62,19 +65,27 @@ Move Cursor to End of Line: ⌘ + →
 Move Cursor to Start of Document: ⌘ + ↑
 Move Cursor to End of Document: ⌘ + ↓
 
+***
+
 ### Jump
 
 Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M
 Jump to Definition: ⌘ + R
+
+***
 
 ### Indent, Unindent
 
 Indent: Tab or ⌘ + ]
 Unindent: ⇧ + Tab or ⌘ + [
 
+***
+
 ### Toggle Comment
 
 ⌘ + /
+
+***
 
 ### Tab Management
 
@@ -83,6 +94,8 @@ Switch Tab Left: ⌘ + ⇧ + [
 Switch Tab Right: ⌘ + ⇧ + ]
 Close Tab: ⌘ + W
 Reopen Tab: ⌘ + ⇧ + T
+
+***
 
 ### Quick Open
 
