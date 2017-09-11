@@ -1,3 +1,7 @@
+## HTML element reference
+
+[Link to HTML element references - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 ## Establishing a Web Developer Mindset
 
 Be independent. Do your own research. Stay up to date!
