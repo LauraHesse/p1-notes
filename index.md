@@ -1,7 +1,7 @@
 ## HTML element reference
 
-[Link to HTML element references - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-[Udacity Front End Feedback Extension](https://chrome.google.com/webstore/detail/udacity-front-end-feedbac/melpgahbngpgnbhhccnopmlmpbmdaeoi)
+* [Link to HTML element references - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Udacity Front End Feedback Extension](https://chrome.google.com/webstore/detail/udacity-front-end-feedbac/melpgahbngpgnbhhccnopmlmpbmdaeoi)
 
 ## Establishing a Web Developer Mindset
 
