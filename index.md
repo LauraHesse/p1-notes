@@ -114,17 +114,17 @@ For an entire list of [Atom’s](https://github.com/nwinkler/atom-keyboard-short
 - CSS - Cascading Style Sheets - style sheet language used for describing the look and formatting of a document written in a markup language.
 -DOM - Document Object Model - a cross-platform and language-independent convention for representing and interacting with objects in HTML (and other markup languages). The nodes of every document are organized in a tree structure, called the DOM tree.
 
-### Boxes are Everywhere!!
+## Boxes are Everywhere!!
 
 [Content Sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning)
 
 [Sections and Outlines of an HTML5 Document - The HTML5 Outline Algorithm](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_outline_algorithm)
 
-### Positioning Boxes - Flexbox
+## Positioning Boxes - Flexbox
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-### Verifying your CODE
+## Verifying your CODE
 
 [To verify HTML](http://validator.w3.org/#validate_by_input)
 [To verify CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)
